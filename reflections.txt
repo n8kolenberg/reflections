@@ -29,4 +29,5 @@ We can then use git diff to compare two commits and see what lines have been add
 How might using version control make you more confident to make changes that could break something?
 Because you can easily revert back to a previous version of your files where a possible bug wasn’t created yet.
 
-This is a test to try out Git on my own computer
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area is like a place to put things before they go live. Like the backstage before the actual stage in front of the audience. By making sure that you have all features that need to go live at some point in the staging area, you can then have a good overview of what needs to go live and what not.
