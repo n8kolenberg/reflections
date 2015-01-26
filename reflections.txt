@@ -29,4 +29,4 @@ We can then use git diff to compare two commits and see what lines have been add
 How might using version control make you more confident to make changes that could break something?
 Because you can easily revert back to a previous version of your files where a possible bug wasn’t created yet.
 
-This is a test
+This is a test to try out Git on my own computer
